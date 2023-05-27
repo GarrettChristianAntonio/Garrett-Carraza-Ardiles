@@ -1,0 +1,16 @@
+li{
+    font-size: 2rem;
+}
+
+.tachado{
+    text-decoration: line-through;
+}
+.AlumnoIntegrante{
+    font-size: 3rem;
+}
+.Main{
+    padding: 70px;
+    margin: auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: black;
+}

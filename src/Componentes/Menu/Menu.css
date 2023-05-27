@@ -1,0 +1,13 @@
+.Menu{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  height: 75px;
+ 
+}
+.btn{
+    background-color: grey;
+    border: solid 2px black;
+    color: black;
+}
